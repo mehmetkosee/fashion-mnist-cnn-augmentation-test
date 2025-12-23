@@ -17,6 +17,9 @@ The goal of this project is to accurately categorize clothing items into 10 dist
 - **Technique:** Real-time Data Augmentation (Rotation, Shift, Zoom).
 - **Test Accuracy:** **~87.65%**
 
+## 📂 Dataset Link
+  link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
 ## 📂 Dataset Classes
 
 The dataset consists of the following labels:
